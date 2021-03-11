@@ -60,6 +60,9 @@ class SudokuSolver:
             for x in range(self.BOARD_SIZE):
                 print(self.board[y][x], end = " ")
             print()
+
+    def get_board(self):
+        return self.board
         
 
 
