@@ -1,6 +1,3 @@
-import numpy as np
-from os import system
-
 class SudokuSolver:
 
     # Tamanho do tabuleiro
